@@ -1,0 +1,18 @@
+# prostor za komentare /// comment space
+
+file '/home/milos/Desktop/concatScript/right/input1.mp4'
+file '/home/milos/Desktop/concatScript/right/input2.mp4'
+file '/home/milos/Desktop/concatScript/right/input3.mp4'
+file '/home/milos/Desktop/concatScript/right/input4.mp4'
+file '/home/milos/Desktop/concatScript/right/input5.mp4'
+file '/home/milos/Desktop/concatScript/right/input6.mp4'
+file '/home/milos/Desktop/concatScript/right/input7.mp4'
+file '/home/milos/Desktop/concatScript/right/input8.mp4'
+file '/home/milos/Desktop/concatScript/right/input9.mp4'
+file '/home/milos/Desktop/concatScript/right/input10.mp4'
+file '/home/milos/Desktop/concatScript/right/input11.mp4'
+
+
+
+
+
